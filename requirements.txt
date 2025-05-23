@@ -1,0 +1,11 @@
+langchain>=0.1.0
+langchain-community
+langchain-mistralai
+mistralai
+faiss-cpu
+streamlit
+unstructured
+python-dotenv
+transformers
+torch
+sentence-transformers
